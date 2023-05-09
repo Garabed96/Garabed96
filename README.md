@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a cross-platform React Native application that includes food journaling and fasting features as the two main components.<br><br>👯 I’m looking to collaborate on anything related to OpenAI.<br><br>🤝 I’m looking for help with UX design in general, especially as it pertains to our React Native app.<br><br>🌱 I’m currently learning about improving web performance through tools such as Lighthouse and Unlighthouse, as well as studying web vitals and the Tailwind CSS framework.<br><br>💬 Ask me about PixelKoi Company.<br><br>⚡ Fun fact: I have traveled across the world and am currently learning Thai language as a new challenge.
+🔭 I’m currently working on a cross-platform React Native application that includes food journaling and fasting features as the two main components.<br><br>👯 I’m looking to collaborate on anything related to OpenAI.<br><br>🤝 I’m looking for help with UX design in general, especially as it pertains to our React Native app.<br><br>🌱 I’m currently learning about improving web performance through tools Unlighthouse and web vitals, as well as Tailwind CSS framework for speeding up sprints.<br><br>💬 Ask me about PixelKoi Company.<br><br>⚡ Fun fact: I have traveled across the world and am currently learning Thai language as a new challenge.
 
 
 ## 🌐 Socials:
