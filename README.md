@@ -18,14 +18,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Garabed96&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 [![](https://visitcount.itsvg.in/api?id=Garabed96&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-### 😂 Random Dev Meme
-<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--oZgcPHef--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/woov2cti0wx5bqj68we2.jpg width="512px"/>
 
 ---
 
